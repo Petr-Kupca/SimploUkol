@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "Ally",
+      "last_name": "Ianni",
+      "email": "aianni0@shareasale.com",
+      "groups": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Hamid",
+      "last_name": "Grieveson",
+      "email": "hgrieveson1@elpais.com",
+      "groups": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Ansley",
+      "last_name": "Andryunin",
+      "email": "aandryunin2@noaa.gov",
+      "groups": [
+        "1",
+        "2"
+      ]
+    }
+  ]
+}
